@@ -1,4 +1,6 @@
-import utils.TreeNode;
+package interview_questions;
+
+import helpers.TreeNode;
 
 /*
         CHALLENGE: Given the root of a binary tree, return its maximum depth.

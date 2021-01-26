@@ -1,4 +1,6 @@
-import utils.TreeNode;
+package interview_questions;
+
+import helpers.TreeNode;
 
 /*
         CHALLENGE: Given a binary tree, determine if it is height-balanced.

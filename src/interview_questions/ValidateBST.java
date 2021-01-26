@@ -1,4 +1,6 @@
-import utils.TreeNode;
+package interview_questions;
+
+import helpers.TreeNode;
 
 /*
         Challenge: Given the root of a binary tree, determine if it is a valid binary search tree (BST).

@@ -1,3 +1,5 @@
+package interview_questions;
+
 import java.util.Random;
 
 public class MrMeseeks {

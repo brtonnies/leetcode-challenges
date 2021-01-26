@@ -1,3 +1,5 @@
+package interview_questions;
+
 public class StockMaxProfit {
 //    private StockTrader trader = new StockTrader();
 

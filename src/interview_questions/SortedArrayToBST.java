@@ -1,4 +1,6 @@
-import utils.TreeNode;
+package interview_questions;
+
+import helpers.TreeNode;
 
 public class SortedArrayToBST {
     public TreeNode sortedArrayToBST(int[] nums) {

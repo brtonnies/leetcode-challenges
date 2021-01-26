@@ -1,5 +1,5 @@
-/*
-        CHALLENGE: Implement function ToLowerCase() that has a string parameter str, and returns the same string
+package interview_questions;/*
+        CHALLENGE: Implement function interview_questions.ToLowerCase() that has a string parameter str, and returns the same string
                    in lowercase.
  */
 
